@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **rahulramanmaurya@gmail.com**
 
-- ⚡ Fun fact **I am Singer**
+- ⚡ Fun fact **I am bathroom Singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
