@@ -1,6 +1,6 @@
 ![logo](https://github.com/cse-rahul/cse-rahul/blob/main/iStock-1182604339.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Maurya</h1>
-<h3 align="center">A passionate MERN stack developer and coder from India</h3>
+<h3 align="center">An AI/ML enthusiast, python developer and coder from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/cse-rahul/cse-rahul/assets/91080287/01a39698-f301-413b-93bf-1e58f6237272">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cse-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="cse-rahul" /> </p>
 
